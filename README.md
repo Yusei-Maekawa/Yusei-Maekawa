@@ -1,3 +1,37 @@
+<!-- タイトル -->
+<h1 align="center">こんにちは 👋 Yu-Maekawa8 です！</h1>
+
+<!-- 簡単な自己紹介 -->
+<p align="center">
+  クイズゲーム「ScoreAttack」を開発中のエンジニアです🎮<br>
+  早押し・演出重視のHTML+JSゲームが大好きです🔥
+</p>
+
+<!-- バッジ -->
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Yu-Maekawa8?label=フォロワー&style=social" />
+  <img src="https://img.shields.io/github/stars/Yu-Maekawa8/ScoreAttack?label=ScoreAttack&style=social" />
+</p>
+
+<!-- GitHub 統計 -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yu-Maekawa8&show_icons=true&theme=tokyonight" />
+</p>
+
+<!-- 使用言語グラフ -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yu-Maekawa8&layout=compact&theme=tokyonight" />
+</p>
+
+<!-- GitHub Snake（オプション） -->
+<!-- ※ アクション設定が必要。後で教えます！ -->
+
+<!-- リンクバッジ -->
+<p align="center">
+  <a href="https://github.com/Yu-Maekawa8/ScoreAttack">
+    <img src="https://img.shields.io/badge/ScoreAttack-Check%20it%20out!-green?style=for-the-badge" />
+  </a>
+</p>
 ## Hi there 👋
 
 <!--
