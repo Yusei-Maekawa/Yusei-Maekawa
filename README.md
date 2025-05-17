@@ -38,7 +38,7 @@
 
 <!-- デモGIF（仮） -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="300" alt="demo gif" />
+  ![Demo](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
 </p>
 
 ---
@@ -50,18 +50,6 @@
   <img src="https://github.com/Yu-Maekawa8/Yu-Maekawa8/blob/output/github-contribution-grid-snake.svg" />
 </p>
 -->
-
----
-
-<!-- プロジェクト紹介 -->
-### 🏗️ 開発中プロジェクト: [ScoreAttack](https://github.com/Yu-Maekawa8/ScoreAttack)
-
-| 機能 | 実装状況 | メモ |
-|------|----------|------|
-| 🎮 早押し | ✅ 完了 | JavaScriptで実装 |
-| ✨ ステージ背景 | ✅ 実装済み | CSSグラデーション |
-| 📢 歓声SE | 🔧 開発中 | 効果音で演出強化 |
-| 🧠 記述式回答 | 🔧 開発予定 | 自動採点機能 |
 
 ---
 
