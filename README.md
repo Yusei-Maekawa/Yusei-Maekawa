@@ -23,7 +23,13 @@
   </a>
 </p>
 
-<!-- AtCoder バッジ -->
+<p align="center">
+  <img src="https://img.shields.io/badge/目標-2025年中に達成🔥-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Algorithm-水色-1e90ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/heuristic-水色-1e90ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AC数-1000問突破💪-ff69b4?style=for-the-badge" />
+</p>
+
 
 
 
