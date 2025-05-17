@@ -15,26 +15,75 @@
   <img src="https://img.shields.io/github/stars/Yu-Maekawa8/ScoreAttack?label=ScoreAttack&style=social" />
 </p>
 
-<!-- GitHub 統計 -->
+---
+
+<!-- GitHub Trophy -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Yu-Maekawa8&theme=gruvbox" />
+</p>
+
+---
+
+<!-- GitHub Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yu-Maekawa8&show_icons=true&theme=tokyonight" />
 </p>
 
-<!-- 使用言語グラフ -->
+<!-- Top Languages -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yu-Maekawa8&layout=compact&theme=tokyonight" />
 </p>
 
-<!-- GitHub Snake（オプション） -->
-<!-- ※ アクション設定が必要。後で教えます！ -->
+---
 
-<!-- リンクバッジ -->
+<!-- デモGIF（仮） -->
 <p align="center">
-  <a href="https://github.com/Yu-Maekawa8/ScoreAttack">
-    <img src="https://img.shields.io/badge/ScoreAttack-Check%20it%20out!-green?style=for-the-badge" />
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="300" alt="demo gif" />
+</p>
+
+---
+
+<!-- GitHub Snake（実装する場合） -->
+<!-- 必要ならGitHub Actionsを設定します！ -->
+<!--
+<p align="center">
+  <img src="https://github.com/Yu-Maekawa8/Yu-Maekawa8/blob/output/github-contribution-grid-snake.svg" />
+</p>
+-->
+
+---
+
+<!-- プロジェクト紹介 -->
+### 🏗️ 開発中プロジェクト: [ScoreAttack](https://github.com/Yu-Maekawa8/ScoreAttack)
+
+| 機能 | 実装状況 | メモ |
+|------|----------|------|
+| 🎮 早押し | ✅ 完了 | JavaScriptで実装 |
+| ✨ ステージ背景 | ✅ 実装済み | CSSグラデーション |
+| 📢 歓声SE | 🔧 開発中 | 効果音で演出強化 |
+| 🧠 記述式回答 | 🔧 開発予定 | 自動採点機能 |
+
+---
+
+<!-- ポートフォリオリンク風ボタン -->
+<p align="center">
+  <a href="https://github.com/Yu-Maekawa8/ScoreAttack" target="_blank">
+    <img src="https://img.shields.io/badge/ScoreAttack-View%20Project-green?style=for-the-badge" />
   </a>
 </p>
-## Hi there 👋
+
+---
+
+<!-- 一言・名言 -->
+> 💬 “First, solve the problem. Then, write the code.” – John Johnson
+
+---
+
+<!-- 最後のあいさつ -->
+<p align="center">
+Thanks for stopping by！Have a nice code day! ☀️<br>
+Feel free to ⭐️ or contribute to my projects!
+</p>
 
 <!--
 **Yu-Maekawa8/Yu-Maekawa8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
