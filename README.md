@@ -24,9 +24,7 @@
 </p>
 
 <!-- AtCoder バッジ -->
-<p align="center">
-  <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Yu-Maekawa8/Atcoderbadge/main/solved.json&label=AC%20problems" />
-</p>
+
 
 
 
