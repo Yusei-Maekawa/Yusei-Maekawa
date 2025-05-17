@@ -23,10 +23,11 @@
   </a>
 </p>
 
-<!-- AtCoder 解いた数バッジ -->
+<!-- AtCoder バッジ -->
 <p align="center">
-  <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Yu-Maekawa8/atcoder-badge/main/solved.json" />
+  <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Yu-Maekawa8/Atcoderbadge/main/solved.json&label=AC%20problems" />
 </p>
+
 
 
 
