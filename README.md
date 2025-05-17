@@ -40,41 +40,38 @@
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2p5Zjd6b3BrOHZocGlkZ3IwZzVjcml5bmZwNmZubW43M3UxYXh4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LnumbVzEMgsI4rjrg2/giphy.gif" width="500" />
 </p>
-
-</p>
-
 ---
 
-<!-- GitHub Snake（実装する場合） -->
-<!-- 必要ならGitHub Actionsを設定します！ -->
-<!--
+<!-- 🧱 草風アート（ユニーク演出） -->
 <p align="center">
-  <img src="https://github.com/Yu-Maekawa8/Yu-Maekawa8/blob/output/github-contribution-grid-snake.svg" />
+  <code>
+    🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜<br>
+    🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜<br>
+    🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜<br>
+    🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜<br>
+    🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜<br>
+    🌱 Now Growing My Grass 🌱
+  </code>
 </p>
--->
 
 ---
 
-<!-- ポートフォリオリンク風ボタン -->
+<!-- 🛠 使用中の技術ロゴ -->
+<h2 align="center">🛠 Skills & Tools</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,firebase,git,vscode" />
+</p>
 
 ---
+
+<!-- 🐍 GitHub 草スネーク -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Yu-Maekawa8/Yu-Maekawa8/output/github-contribution-grid-snake.svg" />
+</p>
 
 <!-- 最後のあいさつ -->
 <p align="center">
 Thanks for stopping by！Have a nice code day! ☀️<br>
 </p>
 
-<!--
-**Yu-Maekawa8/Yu-Maekawa8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
