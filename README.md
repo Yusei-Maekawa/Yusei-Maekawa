@@ -69,6 +69,7 @@
   <img src="https://raw.githubusercontent.com/Yu-Maekawa8/Yu-Maekawa8/output/github-contribution-grid-snake.svg" />
 </p>
 
+
 <!-- 最後のあいさつ -->
 <p align="center">
 Thanks for stopping by！Have a nice code day! ☀️<br>
