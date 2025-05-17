@@ -87,7 +87,7 @@
 <!-- 🛠 使用中の技術ロゴ -->
 <h2 align="center">🛠 Skills & Tools</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,firebase,git,vscode,notion" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,firebase,git,github,vscode,notion" />
 </p>
 
 ---
