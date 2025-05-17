@@ -8,17 +8,30 @@
   現在、クイズゲーム「ScoreAttack」を開発中のエンジニアです🎮<br>
   ゲームや日頃役に立ちそうなアプリを開発していく者
 </p>
+
 <p align="center">
+  <h3>AtCoder プロフィール <h3>
   <a href="https://atcoder.jp/users/Y_Maekawa" target="_blank">
-    <img src="https://img.shields.io/badge/AtCoder-Y_Maekawa-brightgreen?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScxMicgaGVpZ2h0PScxMicgdmlld0JveD0nMCAwIDY0IDY0Jz48Y2lyY2xlIGN4PSczMicgY3k9JzMyJyByPSczMCcgZmlsbD0nI2ZmZmZmZicgc3Ryb2tlPScjZGRkJyBzdHJva2Utd2lkdGg9JzQnLz48L3N2Zz4=" alt="AtCoder" />
+    <img src="https://img.shields.io/badge/AtCoder-Y_Maekawa-blue?style=flat-square&logo=codeforces" />
   </a>
 </p>
+
+<p align="center">
+  <h3>AtCoder AtCoder problems 進捗 <h3>
+  <a href="https://kenkoooo.com/atcoder/#/user/Y_Maekawa" target="_blank">
+    <img src="https://img.shields.io/badge/AtCoder_Problems-Track%20Now-brightgreen?style=flat-square&logo=google-chrome" />
+  </a>
+</p>
+
+
 
 <!-- バッジ -->
 <p align="center">
   <img src="https://img.shields.io/github/followers/Yu-Maekawa8?label=フォロワー&style=social" />
   <img src="https://img.shields.io/github/stars/Yu-Maekawa8/ScoreAttack?label=ScoreAttack&style=social" />
 </p>
+
+
 
 ---
 
