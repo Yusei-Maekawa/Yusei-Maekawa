@@ -38,7 +38,9 @@
 
 <!-- デモGIF（仮） -->
 <p align="center">
-  ![Demo](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2p5Zjd6b3BrOHZocGlkZ3IwZzVjcml5bmZwNmZubW43M3UxYXh4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LnumbVzEMgsI4rjrg2/giphy.gif" width="500" />
+</p>
+
 </p>
 
 ---
