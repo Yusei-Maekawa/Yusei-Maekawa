@@ -1,5 +1,5 @@
 <!-- タイトル -->
-<h1 align="center">こんにちは 👋 Yu-Maekawa8 です！</h1>
+<h1 align="center">👋 Yu-Maekawa8 です！</h1>
 
 <!-- 簡単な自己紹介 -->
 <p align="center">
@@ -56,23 +56,12 @@
 ---
 
 <!-- ポートフォリオリンク風ボタン -->
-<p align="center">
-  <a href="https://github.com/Yu-Maekawa8/ScoreAttack" target="_blank">
-    <img src="https://img.shields.io/badge/ScoreAttack-View%20Project-green?style=for-the-badge" />
-  </a>
-</p>
-
----
-
-<!-- 一言・名言 -->
-> 💬 “First, solve the problem. Then, write the code.” – John Johnson
 
 ---
 
 <!-- 最後のあいさつ -->
 <p align="center">
 Thanks for stopping by！Have a nice code day! ☀️<br>
-Feel free to ⭐️ or contribute to my projects!
 </p>
 
 <!--
