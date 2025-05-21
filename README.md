@@ -8,6 +8,14 @@
   現在、クイズゲーム「ScoreAttack」を開発中🎮<br>
   家計簿アプリを開発中のエンジニア！　<br>
   ゲームや日頃役に立ちそうなアプリを開発していく者 </h2>
+  <h2>
+  Started using AtCoder for study from April 2025!!<br>
+  Full-scale development started from May 2025!!<br>
+  Currently developing a quiz game called "ScoreAttack" 🎮<br>
+  An engineer developing a household budget app!<br>
+  A developer creating games and useful everyday apps
+</h2>
+
 </p>
 
 <p align="center">
