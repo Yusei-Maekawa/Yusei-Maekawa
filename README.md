@@ -1,5 +1,5 @@
 <!-- タイトル -->
-<h1 align="center">👋 Yusei-Maekawa8 です！</h1>
+<h1 align="center">👋 Yusei-Maekawa です！</h1>
 
 <!-- 簡単な自己紹介 -->
 <p align="center">
