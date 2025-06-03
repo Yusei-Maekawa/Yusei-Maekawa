@@ -46,8 +46,8 @@
 
 <!-- バッジ -->
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Yu-Maekawa8?label=フォロワー&style=social" />
-  <img src="https://img.shields.io/github/stars/Yu-Maekawa8/ScoreAttack?label=ScoreAttack&style=social" />
+  <img src="https://img.shields.io/github/followers/Yusei-Maekawa?label=フォロワー&style=social" />
+  <img src="https://img.shields.io/github/stars/Yusei-Maekawa/ScoreAttack?label=ScoreAttack&style=social" />
 </p>
 
 
@@ -56,19 +56,19 @@
 
 <!-- GitHub Trophy -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yu-Maekawa8&theme=gruvbox" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Yusei-Maekawa&theme=gruvbox" />
 </p>
 
 ---
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yu-Maekawa8&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yusei-Maekawa&show_icons=true&theme=tokyonight" />
 </p>
 
 <!-- Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yu-Maekawa8&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yusei-Maekawa&layout=compact&theme=tokyonight" />
 </p>
 
 ---
