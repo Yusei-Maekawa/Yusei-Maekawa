@@ -18,12 +18,22 @@
 
 </p>
 
+<!-- アルゴリズム部門 -->
 <p align="center">
-  <h3>AtCoder プロフィール <h3>
-  <a href="https://atcoder.jp/users/Y_Maekawa" target="_blank">
-    <img src="https://img.shields.io/badge/AtCoder-Y_Maekawa-blue?style=flat-square&logo=codeforces" />
+  <strong>AtCoder プロフィール - Algorithm 部門 -</strong><br>
+  <a href="https://atcoder.jp/users/Y_Maekawa?contestType=algo" target="_blank">
+    <img src="https://img.shields.io/badge/AtCoder (Algorithm)-Y_Maekawa-blue?style=flat-square&logo=codeforces" />
   </a>
 </p>
+
+<!-- ヒューリスティック部門 -->
+<p align="center">
+  <strong>AtCoder プロフィール - Heuristic 部門 -</strong><br>
+  <a href="https://atcoder.jp/users/Y_Maekawa?contestType=heuristic" target="_blank">
+    <img src="https://img.shields.io/badge/AtCoder (Heuristic)-Y_Maekawa-green?style=flat-square&logo=codeforces" />
+  </a>
+</p>
+
 
 <p align="center">
   <h3>AtCoder AtCoder problems 進捗 <h3>
