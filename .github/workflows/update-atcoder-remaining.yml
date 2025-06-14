@@ -1,9 +1,14 @@
+# .github/workflows/update-atcoder-remaining.yml
+
 name: Update AtCoder Remaining Points
 
 on:
   schedule:
-    - cron: '0 6 * * *'  # JST 15:00 毎日実行
+    - cron: '0 6 * * *'  # JST 15:00
   workflow_dispatch:
+
+permissions:  # ← 追加
+  contents: write  # ← README などに書き込むために必要
 
 jobs:
   update-readme:
@@ -28,3 +33,5 @@ jobs:
           git add README.md
           git commit -m "Update remaining AtCoder points" || echo "No changes"
           git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # ← 自動付与されるトークン
