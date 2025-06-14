@@ -51,9 +51,19 @@
   <img src="https://badgen.org/img/atcoder/Y_Maekawa/rating/heuristic?style=flat" alt="Heuristic Rate">
 </p>
 
+<!-- AtCoder Rating Goal Section: Do not edit below. This will be auto-updated -->
 <p align="center">
-  <strong>📈 Goal: 1200 — Remaining: XXX points</strong>
+  <strong>📈 Algorithm Goal: 1200 — Remaining: XXX points</strong><br>
+  <strong>🧠 Heuristic Goal: 1200 — Remaining: YYY points</strong>
 </p>
+<!-- End AtCoder Rating Goal Section -->
+
+<sub align="center">
+  This section is automatically updated by GitHub Actions.<br>
+  Remaining = Goal (1200) − Current AtCoder Rating.<br>
+  Updates daily using <a href="https://github.com/kenkoooo/AtCoderProblems">AtCoder Problems API</a>.
+</sub>
+
 
 
 ---
