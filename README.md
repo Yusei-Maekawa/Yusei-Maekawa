@@ -1,66 +1,53 @@
 <!-- タイトル -->
-<h1 align="center">👋hi！ Yusei-Maekawaです ！</h1>
+<h1 align="center">Hello, I'm Yusei Maekawa 👨‍💻</h1>
 
-<!-- 簡単な自己紹介 -->
+<!-- 自己紹介 -->
 <p align="center">
-  <h2> 2025/4～ AtCoder の勉強で使い始める！！<br>
-  2025/5～　本格的に開発開始！！<br>
-  現在、クイズゲーム「ScoreAttack」を開発中🎮<br>
-  家計簿アプリを開発中のエンジニア！　<br>
-  ゲームや日頃役に立ちそうなアプリを開発していく者 </h2>
-  <h2>
-  Started using AtCoder for study from April 2025!!<br>
-  Full-scale development started from May 2025!!<br>
-  Currently developing a quiz game called "ScoreAttack" 🎮<br>
-  An engineer developing a household budget app!<br>
-  A developer creating games and useful everyday apps
-</h2>
-
+  <strong>Welcome to my GitHub profile!</strong><br><br>
+  I started studying competitive programming on AtCoder in April 2025, and began full-scale software development in May 2025.<br>
+  I am currently developing a quiz game <strong>"ScoreAttack"</strong> 🎮 and a household budgeting application 🧾.<br>
+  I enjoy creating applications that are both entertaining and useful in daily life.
 </p>
 
-<!-- アルゴリズム部門 -->
+---
+
+<!-- AtCoderプロフィール -->
 <p align="center">
-  <strong>AtCoder プロフィール - Algorithm 部門 -</strong><br>
+  <strong>AtCoder Profile - Algorithm Division</strong><br>
   <a href="https://atcoder.jp/users/Y_Maekawa?contestType=algo" target="_blank">
     <img src="https://img.shields.io/badge/AtCoder (Algorithm)-Y_Maekawa-blue?style=flat-square&logo=codeforces" />
   </a>
 </p>
 
-<!-- ヒューリスティック部門 -->
 <p align="center">
-  <strong>AtCoder プロフィール - Heuristic 部門 -</strong><br>
+  <strong>AtCoder Profile - Heuristic Division</strong><br>
   <a href="https://atcoder.jp/users/Y_Maekawa?contestType=heuristic" target="_blank">
     <img src="https://img.shields.io/badge/AtCoder (Heuristic)-Y_Maekawa-green?style=flat-square&logo=codeforces" />
   </a>
 </p>
 
-
 <p align="center">
-  <h3>AtCoder AtCoder problems 進捗 <h3>
+  <strong>Problem-Solving Progress on AtCoder:</strong><br>
   <a href="https://kenkoooo.com/atcoder/#/user/Y_Maekawa" target="_blank">
     <img src="https://img.shields.io/badge/AtCoder_Problems-Track%20Now-brightgreen?style=flat-square&logo=google-chrome" />
   </a>
 </p>
 
+<!-- 目標 -->
 <p align="center">
-  <img src="https://img.shields.io/badge/目標-2025年中に達成🔥-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Algorithm-水色-1e90ff?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/heuristic-水色-1e90ff?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AC数-1000問突破💪-ff69b4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Goal-Complete by 2025🔥-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Algorithm-Light Blue-1e90ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Heuristic-Light Blue-1e90ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Problems Solved-1000+💪-ff69b4?style=for-the-badge" />
 </p>
 
+---
 
-
-
-
-
-<!-- バッジ -->
+<!-- GitHub リンクバッジ -->
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Yusei-Maekawa?label=フォロワー&style=social" />
+  <img src="https://img.shields.io/github/followers/Yusei-Maekawa?label=Followers&style=social" />
   <img src="https://img.shields.io/github/stars/Yusei-Maekawa/ScoreAttack?label=ScoreAttack&style=social" />
 </p>
-
-
 
 ---
 
@@ -83,13 +70,14 @@
 
 ---
 
-<!-- デモGIF（仮） -->
+<!-- デモGIF -->
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2p5Zjd6b3BrOHZocGlkZ3IwZzVjcml5bmZwNmZubW43M3UxYXh4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LnumbVzEMgsI4rjrg2/giphy.gif" width="500" />
 </p>
+
 ---
 
-<!-- 🧱 草風アート（ユニーク演出） -->
+<!-- 草風グラフィック -->
 <p align="center">
   <code>
     🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜<br>
@@ -97,29 +85,30 @@
     🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜<br>
     🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜<br>
     🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜<br>
-    🌱 Now Growing My Grass 🌱
+    🌱 Growing my contribution graph 🌱
   </code>
 </p>
 
 ---
 
-<!-- 🛠 使用中の技術ロゴ -->
+<!-- 使用技術 -->
 <h2 align="center">🛠 Skills & Tools</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,firebase,git,github,vscode,notion" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,php,laravel,firebase,git,github,vscode,notion" />
 </p>
 
 ---
 
-<!-- 🐍 GitHub 草スネーク -->
+<!-- 草スネーク -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Yu-Maekawa8/Yu-Maekawa8/output/github-contribution-grid-snake.svg" />
 </p>
 
+---
 
-<!-- 最後のあいさつ -->
+<!-- 結び -->
 <p align="center">
-Thanks for stopping by！Have a nice code day! ☀️<br>
+  Thank you for visiting!<br>
+  I hope you enjoy exploring my projects and code.<br>
+  Let's build something amazing together! 🚀
 </p>
-
-
