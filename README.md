@@ -58,6 +58,7 @@
 </p>
 <!-- End AtCoder Rating Goal Section -->
 
+<h3>Remaining Rate revising now </h3>
 <sub align="center">
   This section is automatically updated by GitHub Actions.<br>
   Remaining = Goal (1200) − Current AtCoder Rating.<br>
