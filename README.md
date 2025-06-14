@@ -37,8 +37,8 @@
  <h2 align="center">---2025 Goal---</b2><br>
 <p align="center">
   <img src="https://img.shields.io/badge/Goal-Complete by 2025🔥-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Algorithm-Light Blue-1e90ff?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Heuristic-Light Blue-1e90ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Algorithm-Light Blue(1200+)-1e90ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Heuristic-Light Blue(1200+)-1e90ff?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Problems Solved-1000+💪-ff69b4?style=for-the-badge" />
 </p>
 
