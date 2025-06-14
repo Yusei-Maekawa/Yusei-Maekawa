@@ -46,7 +46,7 @@
 
  <h2 align="center">---AtCoder Activity---</b2><br>
    
-[![AtCoder Trophies](https://atcoder-trophies.vercel.app/api/v1/atcoder?Y_Maekawa=semiexp&theme=monokai)](https://github.com/KATO-Hiro/AtCoderTrophies)
+[![AtCoder Trophies](https://atcoder-trophies.vercel.app/api/v1/atcoder?username=Y_Maekawa&theme=monokai)](https://github.com/KATO-Hiro/AtCoderTrophies)
 
 ---
 
