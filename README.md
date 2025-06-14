@@ -42,6 +42,7 @@
   <img src="https://img.shields.io/badge/Problems Solved-1000+💪-ff69b4?style=for-the-badge" />
 </p>
 
+
 ---
 <h2 align="center">Current AtCoder Rate</h2><br>
 
