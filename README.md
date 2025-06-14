@@ -43,6 +43,19 @@
 </p>
 
 ---
+<h2 align="center">Current AtCoder Rate</h2><br>
+
+<p align="center">
+  <img src="https://badgen.org/img/atcoder/Y_Maekawa/rating/algorithm?style=flat" alt="Algorithm Rate">
+  <img src="https://badgen.org/img/atcoder/Y_Maekawa/rating/heuristic?style=flat" alt="Heuristic Rate">
+</p>
+
+<p align="center">
+  <strong>📈 Goal: 1200 — Remaining: XXX points</strong>
+</p>
+
+
+---
 
  <h2 align="center">---AtCoder Activity---</b2><br>
    
