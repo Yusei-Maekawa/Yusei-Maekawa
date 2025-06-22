@@ -1,0 +1,37 @@
+name: Update AtCoder Badges
+
+on:
+  schedule:
+    - cron: '0 3 * * *' # 毎日12:00 JSTに実行
+  workflow_dispatch: # 手動実行も可能
+  push:
+    paths:
+      - 'scripts/update_badges.py'
+      - '.github/workflows/update-atcoder-badge.yml'
+
+jobs:
+  update-badges:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install Requests
+        run: pip install requests
+
+      - name: Update README
+        run: python scripts/update_badges.py
+
+      - name: Commit & Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update AtCoder ratings [bot]" || echo "No changes"
+          git push
