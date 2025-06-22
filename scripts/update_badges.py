@@ -7,18 +7,14 @@ def get_rating(contest_type):
         url = f"https://atcoder.jp/users/Y_Maekawa/history/json?contestType={contest_type}"
         res = requests.get(url, timeout=10)
         
-        # HTTPステータスコードをチェック
         if res.status_code != 200:
             print(f"HTTP Error {res.status_code} for {contest_type}")
-            print(f"Response content: {res.text[:200]}")
             return 0
         
-        # レスポンスが空でないかチェック
         if not res.text.strip():
             print(f"Empty response for {contest_type}")
             return 0
         
-        # JSONとしてパース
         data = res.json()
         
         if not data:
@@ -26,48 +22,62 @@ def get_rating(contest_type):
             return 0
         
         # 最新のレーティングを取得
-        return data[-1]["NewRating"]
+        latest_rating = data[-1]["NewRating"]
+        print(f"Latest rating for {contest_type}: {latest_rating}")
+        return latest_rating
         
-    except requests.exceptions.RequestException as e:
-        print(f"Request error for {contest_type}: {e}")
-        return 0
-    except requests.exceptions.JSONDecodeError as e:
-        print(f"JSON decode error for {contest_type}: {e}")
-        print(f"Response content: {res.text[:200]}")
-        return 0
-    except (KeyError, IndexError) as e:
-        print(f"Data parsing error for {contest_type}: {e}")
-        return 0
     except Exception as e:
-        print(f"Unexpected error for {contest_type}: {e}")
+        print(f"Error for {contest_type}: {e}")
         return 0
+
+def get_badge_color(rating):
+    """レーティングに応じた色を返す"""
+    if rating >= 2800:
+        return "red"
+    elif rating >= 2400:
+        return "orange"
+    elif rating >= 2000:
+        return "yellow"
+    elif rating >= 1600:
+        return "blue"
+    elif rating >= 1200:
+        return "light blue"
+    elif rating >= 800:
+        return "green"
+    elif rating >= 400:
+        return "brown"
+    else:
+        return "gray"
 
 def replace_badges(content):
     try:
         print("Getting algorithm rating...")
         algo_rating = get_rating("algorithm")
-        print(f"Algorithm rating: {algo_rating}")
         
         print("Getting heuristic rating...")
         heuristic_rating = get_rating("heuristic")
-        print(f"Heuristic rating: {heuristic_rating}")
         
-        # バッジのURL生成
-        algo_badge_url = f"https://img.shields.io/badge/AtCoder-{algo_rating}-brightgreen"
-        heuristic_badge_url = f"https://img.shields.io/badge/AtCoder_Heuristic-{heuristic_rating}-brightgreen"
+        # バッジの色を決定
+        algo_color = get_badge_color(algo_rating)
+        heuristic_color = get_badge_color(heuristic_rating)
         
-        # バッジの置換
-        content = re.sub(
-            r'!\[AtCoder\]\(https://img\.shields\.io/badge/AtCoder-\d+-brightgreen\)',
-            f'![AtCoder]({algo_badge_url})',
-            content
-        )
+        # バッジのURL生成（shields.ioの正しい形式）
+        algo_badge_url = f"https://img.shields.io/badge/AtCoder-{algo_rating}-{algo_color}"
+        heuristic_badge_url = f"https://img.shields.io/badge/AtCoder_Heuristic-{heuristic_rating}-{heuristic_color}"
         
-        content = re.sub(
-            r'!\[AtCoder Heuristic\]\(https://img\.shields\.io/badge/AtCoder_Heuristic-\d+-brightgreen\)',
-            f'![AtCoder Heuristic]({heuristic_badge_url})',
-            content
-        )
+        print(f"Algorithm badge URL: {algo_badge_url}")
+        print(f"Heuristic badge URL: {heuristic_badge_url}")
+        
+        # より柔軟な正規表現パターンを使用
+        # AtCoderバッジの置換
+        algo_pattern = r'!\[AtCoder[^\]]*\]\(https://img\.shields\.io/badge/AtCoder[^)]*\)'
+        new_algo_badge = f'![AtCoder]({algo_badge_url})'
+        content = re.sub(algo_pattern, new_algo_badge, content)
+        
+        # AtCoder Heuristicバッジの置換
+        heuristic_pattern = r'!\[AtCoder[^]]*Heuristic[^\]]*\]\(https://img\.shields\.io/badge/AtCoder[^)]*Heuristic[^)]*\)'
+        new_heuristic_badge = f'![AtCoder Heuristic]({heuristic_badge_url})'
+        content = re.sub(heuristic_pattern, new_heuristic_badge, content)
         
         return content
         
@@ -81,7 +91,14 @@ if __name__ == "__main__":
         with open("README.md", "r", encoding="utf-8") as f:
             content = f.read()
         
-        print("Updating badges...")
+        print("Current content preview:")
+        # AtCoderバッジの行を探して表示
+        lines = content.split('\n')
+        for i, line in enumerate(lines):
+            if 'AtCoder' in line and 'shields.io' in line:
+                print(f"Line {i+1}: {line}")
+        
+        print("\nUpdating badges...")
         updated = replace_badges(content)
         
         print("Writing updated README.md...")
@@ -90,7 +107,12 @@ if __name__ == "__main__":
         
         print("Badge update completed successfully!")
         
-    except FileNotFoundError:
-        print("Error: README.md not found")
+        # 更新後の確認
+        print("\nUpdated content preview:")
+        lines = updated.split('\n')
+        for i, line in enumerate(lines):
+            if 'AtCoder' in line and 'shields.io' in line:
+                print(f"Line {i+1}: {line}")
+        
     except Exception as e:
-        print(f"Unexpected error: {e}")
+        print(f"Error: {e}")
