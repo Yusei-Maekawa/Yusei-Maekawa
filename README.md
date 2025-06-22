@@ -55,8 +55,8 @@
 
 <!-- AtCoder Rating Goal Section: Do not edit below. This will be auto-updated -->
 <p align="center">
-  <strong>📈 Algorithm Goal: 1200 — Remaining: 1200 points</strong><br>
-  <strong>🧠 Heuristic Goal: 1200 — Remaining: 1200 points</strong>
+  <strong>📈 Algorithm Goal: 1200 — 残り 935 pt</strong><br>
+  <strong>🧠 Heuristic Goal: 1200 — 残り 95 pt</strong>
 </p>
 <!-- End AtCoder Rating Goal Section -->
 
