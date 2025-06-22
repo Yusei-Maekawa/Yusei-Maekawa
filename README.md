@@ -47,8 +47,10 @@
 <h2 align="center">Current AtCoder Rate</h2><br>
 
 <p align="center">
-  <img src="https://badgen.org/img/atcoder/Y_Maekawa/rating/algorithm?style=flat" alt="Algorithm Rate">
-  <img src="https://badgen.org/img/atcoder/Y_Maekawa/rating/heuristic?style=flat" alt="Heuristic Rate">
+
+<img src="https://img.shields.io/badge/Algorithm-Loading...-blue" alt="Algorithm Rating">
+<img src="https://img.shields.io/badge/Heuristic-Loading...-purple" alt="Heuristic Rating">
+
 </p>
 
 <!-- AtCoder Rating Goal Section: Do not edit below. This will be auto-updated -->
