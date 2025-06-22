@@ -4,7 +4,7 @@ import requests
 
 def get_rating(contest_type):
     try:
-        url = f"https://atcoder.jp/users/Yusei_Maekawa/history/json?contestType={contest_type}"
+        url = f"https://atcoder.jp/users/Y_Maekawa/history/json?contestType={contest_type}"
         res = requests.get(url, timeout=10)
         
         # HTTPステータスコードをチェック
