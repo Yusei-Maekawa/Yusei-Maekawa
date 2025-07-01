@@ -41,6 +41,11 @@
   <img src="https://img.shields.io/badge/Heuristic-Light Blue(1200+)-1e90ff?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Problems Solved-1000+💪-ff69b4?style=for-the-badge" />
 </p>
+   
+# 全体開発の流れ
+
+2025年度(～2026/3)は このようなアプリがあったら「有意義になりそうだな」「楽しそうだな」「ワクワクするだろうな」といった構想を練る設計部分であったり、色々な気になる技術に触れたりして全面的に技術を向上させることが目標となっている。
+
 
 
 ---
