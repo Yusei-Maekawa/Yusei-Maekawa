@@ -60,7 +60,7 @@
 
 <!-- AtCoder Rating Goal Section: Do not edit below. This will be auto-updated -->
 <p align="center">
-  <strong>📈 Algorithm Goal: 1200 — 残り 912 pt</strong><br>
+  <strong>📈 Algorithm Goal: 1200 — 残り 935 pt</strong><br>
   <strong>🧠 Heuristic Goal: 1200 — 残り 64 pt</strong>
 </p>
 <!-- End AtCoder Rating Goal Section -->
