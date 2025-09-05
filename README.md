@@ -86,7 +86,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/Yusei-Maekawa?label=Followers&style=social" />
-  <img src="https://img.shields.io/github/stars/Yusei-Maekawa/ScoreAttack?label=ScoreAttack&style=social" />
 </p>
 
 ---
