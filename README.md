@@ -5,7 +5,7 @@
 <p align="center">
   <strong>Welcome to my GitHub profile!</strong><br><br>
   I started studying competitive programming on AtCoder in April 2025, and began full-scale software development in May 2025.<br>
-  I am currently developing a quiz game <strong>"ScoreAttack"</strong> 🎮 and a household budgeting application 🧾.<br>
+  I am currently developing a study-supplement-app <strong>"NewWord"</strong>  and a household budgeting application 🧾.<br>
   I enjoy creating applications that are both entertaining and useful in daily life.
 </p>
 
