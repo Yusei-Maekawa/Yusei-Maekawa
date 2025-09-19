@@ -81,13 +81,6 @@
 
 ---
 
-<!-- GitHub リンクバッジ -->
-
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Yusei-Maekawa?label=Followers&style=social" />
-</p>
-
 ---
 
 <h2 align="center">---Development Activity---</b2><br>
