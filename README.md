@@ -127,8 +127,36 @@
 
 <!-- 使用技術 -->
 <h2 align="center">🛠 Skills & Tools</h2>
+
+<!-- 言語 -->
+<h3 align="center">📘 Languages</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,php,laravel,firebase,git,github,vscode,notion" />
+  <img src="https://skillicons.dev/icons?i=java,python,go,js,ts,html,css,cpp" />
+</p>
+
+<!-- フロントエンド -->
+<h3 align="center">💻 Frontend</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,next,vue,tailwind,framer" />
+</p>
+
+<!-- バックエンド -->f
+
+<h3 align="center">🧠 Backend</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=django,firebase,mysql,postgres,php,laravel" />
+</p>
+
+<!-- 自動化・CI/CD -->
+<h3 align="center">⚙️ Automation / CI・CD</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=githubactions,git,github" />
+</p>
+
+<!-- 開発環境 -->
+<h3 align="center">🧩 Development Environment</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,docker,linux,notion,figma" />
 </p>
 
 ---
