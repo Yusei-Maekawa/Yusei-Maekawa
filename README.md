@@ -133,12 +133,7 @@
 
 ---
 
-<!-- 草スネーク -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Yu-Maekawa8/Yu-Maekawa8/output/github-contribution-grid-snake.svg" />
-</p>
 
----
 
 <!-- 結び -->
 <p align="center">
