@@ -54,7 +54,7 @@
 <p align="center">
 
 <img src="https://img.shields.io/badge/Algorithm-271-gray" alt="Algorithm Rating">
-<img src="https://img.shields.io/badge/Heuristic-1234-lightblue" alt="Heuristic Rating">
+<img src="https://img.shields.io/badge/Heuristic-1402-lightblue" alt="Heuristic Rating">
 
 </p>
 
